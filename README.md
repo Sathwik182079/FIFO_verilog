@@ -69,11 +69,11 @@ rtl/
     empty_logic.v
     full_logic.v
 
-tb/
+TEST_BENCH/
     tb_async_fifo.v
 
-simulation/
-    waveform.png
+waveform
+    tb_async_fifo_behave.wcfg
 ```
 
 ---
